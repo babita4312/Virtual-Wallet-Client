@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Banking_client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Banking_client_jar</output-path>
+    <root id="archive" name="Banking_client.jar">
+      <element id="module-output" name="Banking_client" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/16.0.2/annotations-16.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/java-json/java-json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
